@@ -11,4 +11,4 @@ This is a beginner-friendly Python project that performs basic arithmetic operat
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/probablyAdi/codsoft_taskno.git
+   git clone https://github.com/probablyAdi/codsoft_task2.git
